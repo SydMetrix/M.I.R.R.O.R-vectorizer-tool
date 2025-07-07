@@ -16,11 +16,12 @@ A lightweight interactive Python tool to vectorize emergent concepts in the M.I.
 
 ---
 
-## 🔧 Installation
+## 🛠️ Installation
 
 Make sure you have Python 3.8+ installed.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mirror-vectorizer-tool.git
-cd mirror-vectorizer-tool
+git clone https://github.com/sydmetrix/M.I.R.R.O.R-vectorizer-tool.git
+cd M.I.R.R.O.R-vectorizer-tool
 pip install -r requirements.txt
+
